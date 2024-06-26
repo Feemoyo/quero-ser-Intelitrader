@@ -2,14 +2,6 @@
 
 Este projeto implementa um livro de ofertas utilizando C++ com funcionalidades para manipulação e impressão das ofertas.
 
-## Estrutura do Projeto
-
-O projeto consiste nos seguintes arquivos:
-
-- `main.cpp`: Contém a função principal (`main`) que interage com o usuário para entrada e saída das ofertas.
-- `Ofertas.hpp` e `Ofertas.cpp`: Define a classe `Ofertas` que gerencia as ofertas e suas operações.
-- Arquivos de cabeçalho (`#include`) para bibliotecas padrão do C++.
-
 ## Funcionalidades
 
 ### Classe `Ofertas`
