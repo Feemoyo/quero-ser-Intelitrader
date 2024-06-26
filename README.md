@@ -5,7 +5,6 @@ Este repositório contém três desafios lógicos, cada um abordando diferentes 
 ## Índice
 
 - [Introdução](#introdução)
-- [Desafios](#desafios)
 - [Instalação](#instalação)
 - [Uso](#uso)
 
@@ -16,17 +15,6 @@ Este repositório foi criado para resolver três desafios lógicos propostos. Ca
 - **Criptografia Navio**: Exige compreensão de operações binárias.
 - **Livro de Ofertas**: Focado em lógica e compreensão profunda da linguagem de programação escolhida (C++).
 - **Menor Distância Array**: Envolve algoritmos de ordenação e compreensão técnica em C.
-
-## Desafios
-
-### Criptografia Navio
-Explique o problema, forneça exemplos e detalhes específicos sobre a abordagem usada para resolver o desafio.
-
-### Livro de Ofertas
-Descreva o problema, mostre exemplos e destaque a lógica utilizada para chegar à solução.
-
-### Menor Distância Array
-Detalhe o problema, forneça exemplos e explique o algoritmo usado para resolver o desafio.
 
 ## Instalação
 
